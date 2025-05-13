@@ -1,0 +1,6 @@
+Pacote de Atualizações Dashboard:
+
+Velocidade de carregamento aumentada em 50%
+Cores dos gráficos redesenhadas
+Tabela de resultados agora aparece no final da página
+Retirada colunas não ultilizadas da tabela principal: "Valor M2 Aluguel", "Valor M2 venda", "Nome", "Valor total aluguel", "Endereco Complemento"
