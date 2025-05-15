@@ -15,7 +15,7 @@ st.set_page_config(layout="wide")
 
 pd.set_option("styler.render.max_elements", 10000000)
 #Logo SH
-st.sidebar.image("Ativos/Logo-Lopes.png", use_container_width=True)
+st.sidebar.image("Ativos/Logo-local-imóveis.png", use_container_width=True)
 
 # Injetando o CSS da fonte do Google Fonts
 st.markdown("""
